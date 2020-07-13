@@ -1951,7 +1951,7 @@ button,
     background-color: transparent;
     border: solid 1px !important;
     border-color: rgba(255, 255, 255, 0.15) !important;
-    border-radius: 3em;
+    border-radius: 2em;
     color: #ffffff !important;
     cursor: pointer;
     display: inline-block;
@@ -4030,4 +4030,15 @@ body.is-preload #sidebar nav ul li {
         background-attachment: scroll;
     }
 
+}
+
+#subtitle {
+    color: whitesmoke;
+    font-size: 1.6em;
+}
+
+.projects-header {
+    margin-left: 3em;
+    padding-top: 1.5em;
+    padding-bottom: 1em;
 }
